@@ -35,11 +35,11 @@
        "&trans", "&trans", "&kp KP_NUMBER_1", "&kp KP_NUMBER_2", "&kp KP_NUMBER_3",    "&kp KP_ENTER",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans",          "&trans",           "&none",           "&none",          "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans",  "&none",  "&none", "&trans", "&trans", "&trans"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",                 "&none", "&trans",   "&trans",   "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none", "&macro_executelastcmd", "&trans", "&kp LBKT", "&kp RBKT", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",                "&trans", "&trans",                         "&trans", "&trans",  "&none", "&trans",           "&trans",   "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                "&trans", "&trans",   "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans", "&kp LEFT_BRACKET", "&kp RBKT", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                "&trans", "&trans",   "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",                 "&none", "&trans",   "&trans",    "&trans",  "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none", "&macro_executelastcmd", "&trans", "&kp HOME", "&kp PG_UP", "&kp END", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",                "&trans", "&trans",                           "&trans", "&trans",  "&none", "&trans", "&trans", "&kp PG_DN", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                "&trans", "&trans",   "&trans",    "&trans",  "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                "&trans", "&trans",   "&trans",    "&trans",  "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }

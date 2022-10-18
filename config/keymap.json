@@ -18,9 +18,9 @@
     ], [
                      "&trans",               "&kp F1",                "&kp F2",           "&kp F3",     "&kp F4", "&kp F5",                   "&none",       "&mo 3", "&kp F6",    "&kp F7", "&kp F8",               "&kp F9",            "&kp F10",               "&kp F11",
        "&kp C_BRIGHTNESS_DEC", "&kp C_BRIGHTNESS_INC",                "&trans",         "&kp LBRC",   "&kp RBRC", "&trans",           "&macro_alfred", "&macro_save", "&trans", "&kp PG_UP", "&kp UP", "&kp LEFT_PARENTHESIS",           "&kp RPAR",               "&kp F12",
-                     "&trans",               "&trans",                "&trans",         "&kp LBKT",   "&kp RBKT", "&trans",                   "&mo 3",      "&trans", "&trans",                                      "&trans",             "&trans", "&macro_executelastcmd",          "&kp HOME",  "&kp LEFT", "&kp DOWN", "&kp RIGHT", "&kp END", "&trans",
-                     "&trans",              "&kp DEL", "&macro_descriptivelog", "&macro_clipboard",     "&trans", "&trans",                   "&none",       "&none", "&trans",     "&none",  "&none",               "&trans",              "&none",                 "&none", "&macro_selectword", "&kp PG_DN",   "&trans",    "&trans",  "&trans", "&trans",
-                     "&trans",           "&kp DELETE",              "&kp CAPS",         "&kp C_PP", "&kp C_NEXT", "&trans",                  "&trans",   "&kp SPACE", "&trans",    "&trans", "&trans",    "&macro_leftbyword", "&macro_rightbyword",          "&kp C_VOL_DN",      "&kp C_VOL_UP",    "&trans"
+                     "&trans",               "&trans",                "&trans",         "&kp LBKT",   "&kp RBKT", "&trans",                   "&mo 3",      "&trans", "&trans",                                      "&trans",             "&trans", "&macro_executelastcmd", "&macro_startofline",  "&kp LEFT", "&kp DOWN", "&kp RIGHT", "&macro_endofline", "&trans",
+                     "&trans",              "&kp DEL", "&macro_descriptivelog", "&macro_clipboard",     "&trans", "&trans",                   "&none",       "&none", "&trans",     "&none",  "&none",               "&trans",              "&none",                 "&none",  "&macro_selectword", "&kp PG_DN",   "&trans",    "&trans",           "&trans", "&trans",
+                     "&trans",           "&kp DELETE",              "&kp CAPS",         "&kp C_PP", "&kp C_NEXT", "&trans",                  "&trans",   "&kp SPACE", "&trans",    "&trans", "&trans",    "&macro_leftbyword", "&macro_rightbyword",          "&kp C_VOL_DN",       "&kp C_VOL_UP",    "&trans"
     ], [
         "&none", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3",    "&bt BT_SEL 4",                 "&none",      "&trans",  "&none",      "&none",           "&none",      "&none",      "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",           "&bootloader", "&bootloader",  "&none",      "&none",           "&none",      "&none",      "&none",  "&none",
@@ -28,11 +28,11 @@
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                 "&none",       "&none",  "&none",      "&none",           "&none",      "&none",      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",            "&bl BL_TOG",       "&none",  "&none", "&bl BL_TOG", "&rgb_ug RGB_TOG", "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",                 "&none", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none", "&macro_executelastcmd", "&trans",  "&none", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",                "&trans", "&trans",                     "&trans", "&trans",  "&none", "&trans", "&trans",  "&none", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&none", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",                 "&none", "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none", "&macro_executelastcmd", "&trans", "&kp HOME", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&none",                "&trans", "&trans",                       "&trans", "&trans",  "&none", "&trans",  "&trans",  "&none", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                "&trans", "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp END", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                "&trans", "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&trans"
     ]
   ]
 }

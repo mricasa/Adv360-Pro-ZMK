@@ -56,7 +56,7 @@ macro_executelastcmd: macro_executelastcmd{
 compatible = "zmk,behavior-macro";
 label = "macro_executelastcmd";
 #binding-cells = <0>;
-bindings = <&kp F6>, <&kp UP>, <&kp RETURN>, <&kp F6>, <&kp F6>, <&kp F6>, <&kp F6>;
+bindings = <&kp F6>, <&kp UP>, <&kp RETURN>, <&kp F6>, <&kp F6>, <&kp F6>;
 };
 macro_startofline: macro_startofline{
 compatible = "zmk,behavior-macro";

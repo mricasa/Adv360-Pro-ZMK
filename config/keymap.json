@@ -10,11 +10,11 @@
   ],
   "layers": [
     [
-          "&kp EQUAL",    "&kp N1",      "&kp N2",               "&kp N3",   "&kp N4",   "&kp N5",             "&macro_cut",    "&mo 2",    "&kp N6",     "&kp N7",    "&kp N8",   "&kp N9",                "&kp N0", "&kp MINUS",
-            "&kp TAB",     "&kp Q",       "&kp W",                "&kp E",    "&kp R",    "&kp T",            "&macro_copy", "&sk RCMD",     "&kp Y",      "&kp U",     "&kp I",    "&kp O",                 "&kp P",  "&kp BSLH",
-       "&mt LALT ESC",     "&kp A",       "&kp S",                "&kp D",    "&kp F",    "&kp G",           "&macro_paste",    "&mo 1",  "&kp LGUI",                            "&kp RGUI",              "&kp RALT",   "&kp RET",                "&kp H",  "&kp J",     "&kp K",   "&kp L", "&kp SEMICOLON", "&mt RALT SINGLE_QUOTE",
-         "&kp LSHIFT",     "&kp Z",       "&kp X",                "&kp C",    "&kp V",    "&kp B",                  "&none",    "&none", "&kp LCTRL",      "&none",     "&none",   "&kp UP",                 "&none",     "&none",                "&kp N",  "&kp M", "&kp COMMA", "&kp DOT",      "&kp FSLH",            "&kp RSHIFT",
-              "&mo 1", "&kp GRAVE", "&macro_undo", "&kp LEFT_PARENTHESIS", "&kp LBKT", "&kp BSPC",             "&kp LSHIFT",  "&kp RET",  "&kp DOWN", "&kp RSHIFT", "&kp SPACE", "&kp RBKT", "&kp RIGHT_PARENTHESIS", "&sk RCTRL", "&kp LG(LS(LC(LALT)))",  "&mo 1"
+          "&kp EQUAL",    "&kp N1",      "&kp N2",               "&kp N3",   "&kp N4",   "&kp N5",             "&macro_cut",    "&mo 2",    "&kp N6",    "&kp N7",    "&kp N8",   "&kp N9",                "&kp N0", "&kp MINUS",
+            "&kp TAB",     "&kp Q",       "&kp W",                "&kp E",    "&kp R",    "&kp T",            "&macro_copy", "&sk RCMD",     "&kp Y",     "&kp U",     "&kp I",    "&kp O",                 "&kp P",  "&kp BSLH",
+       "&mt LALT ESC",     "&kp A",       "&kp S",                "&kp D",    "&kp F",    "&kp G",           "&macro_paste",    "&mo 1",  "&kp LGUI",                           "&kp RGUI",              "&kp RALT",   "&kp RET",                "&kp H",  "&kp J",     "&kp K",   "&kp L", "&kp SEMICOLON", "&mt RALT SINGLE_QUOTE",
+         "&kp LSHIFT",     "&kp Z",       "&kp X",                "&kp C",    "&kp V",    "&kp B",                  "&none",    "&none", "&kp LCTRL",     "&none",     "&none",   "&kp UP",                 "&none",     "&none",                "&kp N",  "&kp M", "&kp COMMA", "&kp DOT",      "&kp FSLH",            "&kp RSHIFT",
+              "&mo 1", "&kp GRAVE", "&macro_undo", "&kp LEFT_PARENTHESIS", "&kp LBKT", "&kp BSPC",             "&kp DELETE",  "&kp RET",  "&kp DOWN", "&kp ENTER", "&kp SPACE", "&kp RBKT", "&kp RIGHT_PARENTHESIS", "&sk RCTRL", "&kp LG(LS(LC(LALT)))",  "&mo 1"
     ], [
                      "&trans",               "&kp F1",                "&kp F2",           "&kp F3",     "&kp F4", "&kp F5",           "&kp INTERNATIONAL_2",       "&mo 3", "&kp F6",    "&kp F7", "&kp F8",               "&kp F9",            "&kp F10",               "&kp F11",
        "&kp C_BRIGHTNESS_DEC", "&kp C_BRIGHTNESS_INC",                "&trans",         "&kp LBRC",   "&kp RBRC", "&trans",                 "&macro_alfred", "&macro_save", "&trans", "&kp PG_UP", "&kp UP", "&kp LEFT_PARENTHESIS",           "&kp RPAR",               "&kp F12",

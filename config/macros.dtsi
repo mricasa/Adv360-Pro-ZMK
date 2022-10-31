@@ -1,3 +1,9 @@
+macro_asserttest: macro_asserttest{
+compatible = "zmk,behavior-macro";
+label = "macro_asserttest";
+#binding-cells = <0>;
+bindings = <&sk LCMD>, <&kp X>, <&sk LALT>, <&kp T>, <&sk LALT>, <&kp T>;
+};
 macro_clipboard: macro_clipboard{
 compatible = "zmk,behavior-macro";
 label = "macro_clipboard";
